@@ -4,3 +4,4 @@ git@gitcommit
 
 git rm
 git status
+git diff
