@@ -3,3 +3,4 @@ Git練習中
 git@gitcommit
 
 git rm
+git status
