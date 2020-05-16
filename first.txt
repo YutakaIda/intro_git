@@ -1,3 +1,5 @@
 Git練習中
 未だに練習中
 git@gitcommit
+
+git rm
